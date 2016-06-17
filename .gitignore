@@ -81,3 +81,5 @@ reception/*/reception_database/*
 .idea/
 /maven/fingerprintmanager/target/
 /maven/reception/target/
+
+/reception_database/
